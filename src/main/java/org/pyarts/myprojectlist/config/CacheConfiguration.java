@@ -38,6 +38,7 @@ public class CacheConfiguration {
             cm.createCache(org.pyarts.myprojectlist.domain.User.class.getName(), jcacheConfiguration);
             cm.createCache(org.pyarts.myprojectlist.domain.Authority.class.getName(), jcacheConfiguration);
             cm.createCache(org.pyarts.myprojectlist.domain.User.class.getName() + ".authorities", jcacheConfiguration);
+            cm.createCache(org.pyarts.myprojectlist.domain.Project.class.getName(), jcacheConfiguration);
             // jhipster-needle-ehcache-add-entry
         };
     }

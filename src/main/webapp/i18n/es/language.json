@@ -1,0 +1,12 @@
+{
+    "myProjectListApp": {
+        "Language" : {
+            "null": "",
+            "JAVA": "JAVA",
+            "PYTHON": "PYTHON",
+            "CSHARP": "CSHARP",
+            "PHP": "PHP",
+            "OTHER": "OTHER"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "myProjectListApp": {
+        "project" : {
+            "home": {
+                "title": "Projects",
+                "createLabel": "Project-ஐ உருவாக்கு",
+                "createOrEditLabel": "Project -ஐ மாற்று (அ) உருவாக்கு"
+            },
+            "created": "Project புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Project மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Project நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Project {{ id }}?"
+            },
+            "detail": {
+                "title": "Project"
+            },
+            "projectTitle": "Project Title",
+            "description": "Description",
+            "image": "Image",
+            "publishedDate": "Published Date",
+            "projectLanguage": "Project Language",
+            "isPublished": "Is Published",
+            "title": "Title"
+        }
+    }
+}
